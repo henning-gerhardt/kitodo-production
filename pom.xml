@@ -45,7 +45,7 @@
         <com.h2database.h2.version>1.4.197</com.h2database.h2.version>
         <commons-codec.version>1.11</commons-codec.version>
         <commons-configuration.version>1.10</commons-configuration.version>
-        <commons-httpclient.version>3.1</commons-httpclient.version>
+        <commons-httpclient.version>3.1-jenkins-1</commons-httpclient.version>
         <commons-io.version>2.6</commons-io.version>
         <commons-lang3.version>3.7</commons-lang3.version>
         <org.apache.xmlgraphics.version>2.0</org.apache.xmlgraphics.version>
