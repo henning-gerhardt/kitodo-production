@@ -72,7 +72,7 @@
         <spring.security.version>4.2.13.RELEASE</spring.security.version>
         <flyway-maven-plugin.version>5.1.4</flyway-maven-plugin.version>
         <pitest.version>1.4.10</pitest.version>
-        <mariadb-java-client.version>2.4.4</mariadb-java-client.version>
+        <mariadb-java-client.version>2.6.0</mariadb-java-client.version>
     </properties>
 
     <repositories>
