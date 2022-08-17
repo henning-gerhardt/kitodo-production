@@ -23,7 +23,8 @@
 
     <name>Kitodo - Core</name>
     <artifactId>kitodo</artifactId>
-    <packaging>war</packaging>
+    <!-- jar packaging only for coverage-->
+    <packaging>jar</packaging>
 
     <properties>
         <main.basedir>${project.parent.basedir}</main.basedir>

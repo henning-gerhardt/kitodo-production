@@ -1,0 +1,8 @@
+# Code coverage
+
+run
+
+```mvn clean package -P\!development,all-tests,coverage```
+
+see results in coverage/target/site/jacoco-aggregate-ut/index.html
+
